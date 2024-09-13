@@ -29,7 +29,7 @@ Project hosted on Vercel: https://react-next14-features-typescript.vercel.app/
 
 ## Build with
 
-- React Js, Css, Next Js
+- React Js, Scss, Next Js
 - JSONPlaceholder API
 - Typescript
 - react-icons
