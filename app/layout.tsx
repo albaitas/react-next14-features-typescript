@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { Lusitana } from 'next/font/google';
-import './globals.css';
+import './globals.scss';
 import Header from './components/Header';
 
 const inter = Lusitana({
